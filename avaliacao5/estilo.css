@@ -1,0 +1,74 @@
+body{
+    margin: 0;
+    /*border: 10px groove white;*/
+    background-image: url("images.jpg");
+    
+}
+
+header{
+    /*background-color: #00868B;*/
+    height: 50px;
+    margin-bottom: 20px;
+}
+
+
+header h1{
+    margin: 50px;
+    padding: 05px;
+    text-align: center;
+    font-weight: normal;
+    font-family: Georgia, serif;
+    border: 10px groove white;
+    background-color:#00CDCD;
+    color: red;
+}
+
+section, footer{
+    margin: 0 15px 0 15px;
+}
+
+section p{
+    font-size: 15px;
+    font-family: Tahoma, sans-serif;
+    text-align: justify;
+    text-align: center;
+}
+
+p img{
+    height: 177px;
+    width: 170px;
+    float: left;
+}
+
+section h3{*/
+    border: 10px double black;
+    background-color: #98F5FF;
+    text-align: center;
+    margin: 6px 5px 6px 5px;
+}
+
+section#historia{
+    /*background-color: LightCyan;*/
+    border: 4px groove white;
+    margin: 5px 5px 5px 5px;
+}
+
+section#projeto{
+    /*background-color: Beige;*/
+    border: 4px groove white;
+    margin: 5px 5px 5px 5px;
+}
+section p{
+    /*border: 10px groove white;*/
+    color: white;
+}
+section h2{
+    border-bottom: 5px groove white;
+    color: white;
+    margin: 10px 50px 10px 50px;
+}
+footer{
+    text-align: right;
+    margin: 20px 10px 2px 0px;
+    color: yellow;
+}
